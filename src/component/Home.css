@@ -1,0 +1,25 @@
+.cartImg img{
+    height: 50px;
+    right: 0;
+    /* position: absolute; */
+    /* border: 1px solid; */
+    top: 5px;
+    position: fixed;
+    z-index: -1;
+}
+
+.cartImg span{
+    right: 17px;
+    position: fixed;
+    
+}
+
+.productDetails{
+    display: inline-block;
+    margin: 10px;
+}
+
+.productImg img{ 
+    background-color: transparent;
+    border: 1px solid ;
+}
